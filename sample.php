@@ -4,7 +4,7 @@ Component Name: Sample 01
 Description: Sample component
 Category: Layout
 Tags: Tag Sample
-Version: 1.0
+Version: 1.0.0
 Author: WAGA Team <dev@waga.it>
 Author URI: http://www.waga.it
 */
